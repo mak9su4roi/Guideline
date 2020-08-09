@@ -594,7 +594,7 @@
 Ось так зараз має виглядати наш пошуковий модуль
 
 **Findsherlock_game_library.cmake:**<br>
-**---------------------------------------**<br>
+**--------------------------------------**<br>
 
     MESSAGE ( STATUS "-<Game has begun>-" )
     SET ( MOST_WANTED "sherlock_game_library" )
@@ -666,7 +666,7 @@
 А так - основний модуль
 
 **CMakeLists.txt:**<br>
-**----------------**<br>
+**-----------------**<br>
 
     CMAKE_MINIMUM_REQUIRED ( VERSION 3.14 ) 
     SET ( PRJ_NAME "sherlock_game" )        
